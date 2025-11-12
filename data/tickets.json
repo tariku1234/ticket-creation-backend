@@ -1,0 +1,23 @@
+[
+  {
+    "id": "769c7fb3-5cee-4375-8b7d-9937cfa5def4",
+    "title": "i can not login to the fineto  website  ",
+    "priority": "HIGH",
+    "category": "support",
+    "createdAt": "2025-11-11T14:39:52.798Z"
+  },
+  {
+    "id": "bd8c426b-bf10-4095-9882-d77c4903f823",
+    "title": "new ",
+    "priority": "MEDIUM",
+    "category": "feature",
+    "createdAt": "2025-11-11T19:41:33.184Z"
+  },
+  {
+    "id": "347e0db7-c50e-477c-9af5-93673c507bd2",
+    "title": "low",
+    "priority": "LOW",
+    "category": "bug",
+    "createdAt": "2025-11-11T19:42:18.344Z"
+  }
+]
